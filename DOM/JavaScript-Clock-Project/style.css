@@ -1,0 +1,9 @@
+.container{
+background-color: red;;
+color: black;
+padding: 100px;
+border-radius: 8px;
+max-width: 600px;
+margin: 0 auto;
+text-align: center;
+}
